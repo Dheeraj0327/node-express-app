@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Demo](https://node-express-app-563.herokuapp.com/)
+- [Demo](https://limitless-beach-69695.herokuapp.com/)
 - [Source](https://github.com/denisecase/node-express-app)
 
 ## Requirements
